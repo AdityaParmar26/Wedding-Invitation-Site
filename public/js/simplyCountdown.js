@@ -157,12 +157,10 @@
             2021,
             6,
             14,
-            1,
+            5,
             0,
             0
         );
-
-        console.log(targetTmpDate)
 
         if (parameters.enableUtc) {
             targetDate = new Date(
